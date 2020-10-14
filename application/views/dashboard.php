@@ -35,7 +35,7 @@
             <div class="card-body">
                 <div class="row">
                     <div class="col-3">
-                        <h4 class="card-title float-left">Movies</h4>
+                        <h4 class="card-title float-left">Movies (Dashboard)</h4>
                     </div>
                     <div class="col-4"></div>
                     <div class="col-4">
